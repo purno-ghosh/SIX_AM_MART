@@ -241,7 +241,7 @@ public class Page_Wize_Atomation {
         System.out.println("TEST 13 DONE " + EmployeeList_Page);
         driver.close();
         driver.switchTo().window(getParentTabHandle(driver));
-//Testing Shaharier purno branch
+
 
     }
 
